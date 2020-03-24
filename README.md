@@ -1,2 +1,2 @@
 # worm-plots
-Plots of solutions to the WDW equation obeying HP boundary conditions for euclidean wormholes. It includes asymptotic solutions of Bessel and Hermite functions
+Plots of solutions to the Wheeler-DeWitt equation obeying the Hawking-Page boundary conditions for Euclidean wormholes. It includes asymptotic solutions of Bessel and Hermite functions
